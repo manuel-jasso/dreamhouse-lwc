@@ -9,6 +9,8 @@
         }
     ],
     "namespace": "",
+    "sfdcLoginUrl": "https://manuelj-wsmbnxp.internal.salesforce.com:6101",
+    "signupTargetLoginUrl" : "https://manuelj-wsmbnxp.internal.salesforce.com:6101",  
     "sourceApiVersion": "55.0",
     "packageAliases": {
         "DreamhouseLWC": "0Ho3h000000PBghCAG",
